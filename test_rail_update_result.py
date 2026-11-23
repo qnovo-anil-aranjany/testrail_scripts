@@ -1,6 +1,6 @@
 import requests
 
-AUTH = ("aaranjany@qnovocorp.com", "wXuRu9rVqDcm.Evd7bf0-M94eamebBrsZZ/Z07zeb")
+AUTH = ("aaranjany@qnovocorp.com", "")
 
 
 HOST = "https://qnovocorp.testrail.io"
